@@ -1,7 +1,7 @@
 {
-  "name": "goog",
+  "name": "goss",
   "description": "deploy gost to Heroku.",
-  "keywords": ["goog"],
+  "keywords": ["goss"],
   "env": {
     "VER": {
        "description": " gost version",
@@ -12,7 +12,7 @@
        "value": "mws"
      }
   },
-  "website": "https://github.com/wangyi2005/gost-heroku",
-  "repository": "https://github.com/wangyi2005/gost-heroku",
+  "website": "https://github.com/SrS888/gost-heroku-1",
+  "repository": "https://github.com/SrS888/gost-heroku-1",
   "stack": "container"
  }
