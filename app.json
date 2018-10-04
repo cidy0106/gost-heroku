@@ -1,7 +1,7 @@
 {
-  "name": "gost",
+  "name": "goog",
   "description": "deploy gost to Heroku.",
-  "keywords": ["gost"],
+  "keywords": ["goog"],
   "env": {
     "VER": {
        "description": " gost version",
