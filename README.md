@@ -1,6 +1,6 @@
-# gost-heroku  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+# gost-heroku  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/cidy0106/gost-heroku)
 
-GOST version : 2.5+
+GOST version : 2.11+
 
 Server Mode ：mws(default)、ws
 
@@ -16,4 +16,4 @@ gost.exe -L :1080 -F sni://sniproxy_ip:443 -F mwss://your_app_name.herokuapp.com
 
 https://github.com/ginuerzh/gost
 
-https://github.com/johnsonz/go-sni-detector
+https://github.com/cidy0106/gost-heroku
