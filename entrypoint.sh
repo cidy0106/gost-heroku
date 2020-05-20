@@ -9,5 +9,5 @@ cur_dir=$(cd `dirname $0`; pwd)
 echo ${cur_dir}
 cat ${cur_dir}/secrets.txt
 
-./gost -L $MODE://:$PORT?secrets=/gost/secrets.txt
+./gost -L $MODE://:$PORT?secrets=${cur_dir}/secrets.txt
 #./gost -L $MODE://:$PORT
